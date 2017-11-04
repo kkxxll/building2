@@ -1,0 +1,11 @@
+.container {
+  margin: 30px auto;
+  width: 600px;
+  background-color: #ebe8e8;
+}
+.container {
+  color: red;
+}
+.container:hover {
+  color: green;
+}
